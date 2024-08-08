@@ -2,10 +2,6 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
+## Cambios locales
 
-## Notas
-Pueden hacer lo que quieran...
-
-## Pruebas PULL
-
-Prueba 2
+cambiando
